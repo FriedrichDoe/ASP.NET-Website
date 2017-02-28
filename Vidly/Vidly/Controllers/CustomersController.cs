@@ -7,6 +7,9 @@ using System.Web.Mvc;
 using Vidly.Models;
 using Vidly.ViewModels;
 
+/**
+ * test dokumentation
+ */
 namespace Vidly.Controllers
 {
     public class CustomersController : Controller
